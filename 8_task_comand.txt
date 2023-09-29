@@ -1,0 +1,1 @@
+Get-WmiObject Win32_Processor | Format-List * | Out-File ./8_task_result.txt -Force

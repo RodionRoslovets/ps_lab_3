@@ -1,0 +1,19 @@
+Результаты скопированы
+
+dir
+
+
+Count    : 100
+Average  : 9,880746
+Sum      :
+Maximum  : 41,0304
+Minimum  : 2,7345
+Property : TotalMilliseconds
+
+ps
+Count    : 100
+Average  : 5,584474
+Sum      :
+Maximum  : 138,3596
+Minimum  : 3,0169
+Property : TotalMilliseconds

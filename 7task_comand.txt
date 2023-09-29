@@ -1,0 +1,1 @@
+ Get-ChildItem -Path 'C:\Windows\' -Recurse -Include *.jpg, *.bmp | Measure-Object -Property Length -Sum | Out-File ./7_task_result.txt -Force

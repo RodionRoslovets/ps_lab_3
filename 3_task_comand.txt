@@ -1,0 +1,1 @@
+Get-ChildItem -Path 'C:\Program Files\' -Recurse -Include *.jpg | Sort-Object -Property Name | Out-File ./3_task_result.txt -Force

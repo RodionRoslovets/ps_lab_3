@@ -1,0 +1,1 @@
+Get-Process|select -uni -exp Name | ?{(Get-Process $_).Length -ge 2}

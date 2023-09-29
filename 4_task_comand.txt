@@ -1,0 +1,3 @@
+Get-Process | Get-Member -MemberType Property | Out-File ./4_task_result.txt -Force
+>> $obj=Get-Process
+>> $obj.length

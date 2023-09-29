@@ -1,0 +1,1 @@
+Get-Process | Sort-Object -Property Name | ConvertTo-Html -Property Name > ./6_task_result.html

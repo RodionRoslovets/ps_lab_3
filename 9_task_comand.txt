@@ -1,0 +1,3 @@
+ $i = 100
+>> 'dir'; 1..$i | foreach {Measure-Command {dir $env:SystemRoot}} | Measure-Object TotalMilliseconds -Max -Min -Average
+>> 'ps';  1..$i | foreach {Measure-Command {ps}} | Measure-Object TotalMilliseconds -Max -Min -Average

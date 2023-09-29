@@ -1,0 +1,20 @@
+Результаты скопированы
+
+bash
+chrome
+Code
+conhost
+csrss
+Discord
+dllhost
+fontdrvhost
+Mattermost
+msedgewebview2
+RtkAudUService64
+RuntimeBroker
+service_update
+svchost
+taskhostw
+wireguard
+WmiPrvSE
+Zoom
